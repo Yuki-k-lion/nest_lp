@@ -66,7 +66,6 @@ header {
 
 /*ここからtop-section*/
 .top-section {
-  /*アイキャッチ画像のオレンジ透過変更前*/
 	background-image: url("nest-eyecatch.png");
 	margin: 0 auto;
 	background-size: cover;
@@ -178,7 +177,7 @@ header {
 }
 
 .program-number  {
-	width: 100px;
+	width: 65px;
 	position: absolute;
 	top: -35px;
 	right: auto;
